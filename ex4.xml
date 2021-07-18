@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type = "text/xsl" href="ex4.xsl"?>
+<emp>
+<s>
+ <eno> 1001 </eno>
+ <name> 
+	<fname> Aarav </fname>
+	<lname> Singh </lname>
+	<mname> kane</mname>
+ </name>
+ <fathername> Ajinkya Singh </fathername>
+ <DOB> 18-01-1989</DOB>
+ <city> RR Nagar</city>
+ <state>Panjab  </state>
+ <qualification> MBA </qualification>
+</s>
+<s>
+ <eno> 1002 </eno>
+ <name> 
+	<fname> Rajeshwari </fname>
+	<lname> Shetty </lname>
+	<mname>K.S </mname>
+ </name>
+ <fathername> Ramesh Shetty</fathername>
+ <DOB> 18-02-2000 </DOB>
+ <city> Udupi </city>
+ <state>Karnataka </state>
+ <qualification> MCA </qualification>
+</s>
+<s>
+ <eno> 1003 </eno>
+ <name> 
+	<fname> Harish</fname>
+	<lname> Sharma </lname>
+	<mname> K </mname>
+ </name>
+ <fathername> Vijay Sharma </fathername>
+ <DOB> 18-03-1867 </DOB>
+ <city> Chennai </city>
+ <state> TN </state>
+ <qualification>B.Tech</qualification>
+</s>
+</emp>
+
+
